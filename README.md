@@ -1,4 +1,4 @@
-# My solutions to Codility lessons in Python
+# Solutions to Codility lessons in Python
 
 [Codility](https://codility.com/programmers/)
 
